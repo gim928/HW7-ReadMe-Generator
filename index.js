@@ -29,7 +29,7 @@ const questions = [
     type: "list",
     name: "license",
     message: "What kind of license does your project use?",
-    choices: ["MIT", "other", "other2"],
+    choices: ["MIT", "GPLv2", "Apache 2.0", "MPL 2.0"],
   },
   {
     type: "input",
@@ -45,8 +45,13 @@ const questions = [
   },
   {
     type: "input",
-    name: "contributor",
-    message: "How does a user contribue to this project?",
+    name: "contributing",
+    message: "How does a user contribute to this project?",
+  },
+  {
+    type: "input",
+    name: "usage",
+    message: "How will this project be used?",
   },
 ];
 //inquirer will return a promise object
