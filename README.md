@@ -10,6 +10,8 @@
 
 The objective of this project was to create a README generator that automatically generates a README file with user input. The user is prompted to enter information about their project and a Markdown file is created for with their responses. This will be extremely useful in streamlining the crucial step of easily creating this file for any project. This app runs in the node framework and is powered by JavaScript.
 
+## Link to deployed site: https://gim928.github.io/HW7-ReadMe-Generator/
+
 ## Demo: https://drive.google.com/file/d/1zqOVAFY_NZJHjlvfn0yVrlDKZUIdEGZe/view
 
 ## Table of Contents
